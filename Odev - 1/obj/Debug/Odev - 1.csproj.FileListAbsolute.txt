@@ -1,0 +1,22 @@
+C:\Users\ahmet\Desktop\odev nesne\Odev - 1\Odev - 1\bin\Debug\Odev - 1.exe.config
+C:\Users\ahmet\Desktop\odev nesne\Odev - 1\Odev - 1\bin\Debug\Odev - 1.exe
+C:\Users\ahmet\Desktop\odev nesne\Odev - 1\Odev - 1\bin\Debug\Odev - 1.pdb
+C:\Users\ahmet\Desktop\odev nesne\Odev - 1\Odev - 1\obj\Debug\Odev - 1.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\odev nesne\Odev - 1\Odev - 1\obj\Debug\Odev___1.Form1.resources
+C:\Users\ahmet\Desktop\odev nesne\Odev - 1\Odev - 1\obj\Debug\Odev___1.Properties.Resources.resources
+C:\Users\ahmet\Desktop\odev nesne\Odev - 1\Odev - 1\obj\Debug\Odev - 1.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\odev nesne\Odev - 1\Odev - 1\obj\Debug\Odev - 1.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\odev nesne\Odev - 1\Odev - 1\obj\Debug\Odev - 1.exe
+C:\Users\ahmet\Desktop\odev nesne\Odev - 1\Odev - 1\obj\Debug\Odev - 1.pdb
+C:\Users\ahmet\Desktop\odev nesne\Odev - 1\Odev - 1\obj\Debug\Odev___1.Form_alert.resources
+C:\Users\ahmet\Desktop\not\3.Dönem\Nesne Yönelimli Programlama\ödevler\220601053_AhmetBerke_Kaya\Odev - 1\bin\Debug\Odev - 1.exe.config
+C:\Users\ahmet\Desktop\not\3.Dönem\Nesne Yönelimli Programlama\ödevler\220601053_AhmetBerke_Kaya\Odev - 1\bin\Debug\Odev - 1.exe
+C:\Users\ahmet\Desktop\not\3.Dönem\Nesne Yönelimli Programlama\ödevler\220601053_AhmetBerke_Kaya\Odev - 1\bin\Debug\Odev - 1.pdb
+C:\Users\ahmet\Desktop\not\3.Dönem\Nesne Yönelimli Programlama\ödevler\220601053_AhmetBerke_Kaya\Odev - 1\obj\Debug\Odev - 1.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\not\3.Dönem\Nesne Yönelimli Programlama\ödevler\220601053_AhmetBerke_Kaya\Odev - 1\obj\Debug\Odev___1.Form1.resources
+C:\Users\ahmet\Desktop\not\3.Dönem\Nesne Yönelimli Programlama\ödevler\220601053_AhmetBerke_Kaya\Odev - 1\obj\Debug\Odev___1.Form_alert.resources
+C:\Users\ahmet\Desktop\not\3.Dönem\Nesne Yönelimli Programlama\ödevler\220601053_AhmetBerke_Kaya\Odev - 1\obj\Debug\Odev___1.Properties.Resources.resources
+C:\Users\ahmet\Desktop\not\3.Dönem\Nesne Yönelimli Programlama\ödevler\220601053_AhmetBerke_Kaya\Odev - 1\obj\Debug\Odev - 1.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\not\3.Dönem\Nesne Yönelimli Programlama\ödevler\220601053_AhmetBerke_Kaya\Odev - 1\obj\Debug\Odev - 1.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\not\3.Dönem\Nesne Yönelimli Programlama\ödevler\220601053_AhmetBerke_Kaya\Odev - 1\obj\Debug\Odev - 1.exe
+C:\Users\ahmet\Desktop\not\3.Dönem\Nesne Yönelimli Programlama\ödevler\220601053_AhmetBerke_Kaya\Odev - 1\obj\Debug\Odev - 1.pdb
